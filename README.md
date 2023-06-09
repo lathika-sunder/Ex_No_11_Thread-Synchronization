@@ -28,7 +28,7 @@ Step 7: Save and run the application.
  ```
 /*
 Program to create an Option Menu
-Developed by: V A Jithendra
+Developed by: Bairav skandan Loha
 RegisterNumber:  212221230043
 */
 ```
